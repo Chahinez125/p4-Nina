@@ -95,6 +95,9 @@ body {
 	text-align: center;
 	padding-block: 2em;
 }
+.gallery .nav-link {
+    cursor: pointer;
+}
 .gallery .nav {
 	justify-content: center;
 }
